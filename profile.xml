@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnyConnectProfile xmlns="http://schemas.xmlsoap.org/encoding/">
+    <ServerList>
+        <HostEntry>
+            <HostName>Name of company</HostName>
+            <HostAddress>public IP adress of VPN connection point</HostAddress>
+        </HostEntry>
+    </ServerList>
+</AnyConnectProfile>
